@@ -20,6 +20,7 @@
     "@google-cloud/speech": "0.10.2",
     "@google-cloud/storage": "1.2.1",
     "node-record-lpcm16": "0.3.0",
+    "uuid": "^3.1.0",
     "yargs": "8.0.2"
   },
   "devDependencies": {
